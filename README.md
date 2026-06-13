@@ -39,11 +39,23 @@ I build products end-to-end — from React/Next.js front-ends to Node/Python bac
 ![LLMs · MCP · Agents](https://img.shields.io/badge/LLMs%20%C2%B7%20MCP%20%C2%B7%20Agents-412991?style=flat&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📌 Featured
+### 🤖 AI Engineering
+
+Capabilities I build with LLMs (framed as reusable skills — no proprietary detail):
+
+- **LLM agents &amp; tool use** — agents that call tools reliably, with structured outputs.
+- **MCP servers** — exposing application capabilities to AI assistants via the Model Context Protocol.
+- **RAG** — retrieval-augmented generation grounded on domain data.
+- **Prompt engineering &amp; evals** — versioned prompts, structured outputs, automated evaluation.
+- **AI safety &amp; guardrails** — prompt-injection defenses, access control on AI surfaces, output validation, and parity checks that keep AI features in sync with the product.
+
+### 📌 Featured &amp; repos of interest
 
 - 🐾 **[Firulapp](https://firulapp.com.ar)** — Pet community + AI Lost &amp; Found · Next.js · Firebase · LLM agents
 - 🧰 **[nestjs-api-tools](https://github.com/soyerno/nestjs-api-tools)** — Interceptors &amp; helpers toolkit for NestJS APIs
 - 💳 **[stripe-plans-importer-nodejs](https://github.com/soyerno/stripe-plans-importer-nodejs)** — Programmatically import Stripe plans in Node.js
+- 🐶 **[mascoteros](https://github.com/soyerno/mascoteros)** — Earlier pet-community project (JavaScript)
+- 🧪 **[monopoly-tdd](https://github.com/soyerno/monopoly-tdd)** — Test-driven Monopoly kata in TypeScript
 
 ### 📊 GitHub
 
