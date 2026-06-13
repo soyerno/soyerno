@@ -56,10 +56,6 @@ I build products end-to-end — from React/Next.js front-ends to Node/Python bac
   <img src="https://streak-stats.demolab.com/?user=soyerno&hide_border=true&ring=008859&fire=008859&currStreakLabel=008859" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soyerno&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies" />
-</p>
-
 ---
 
 <p align="center"><i>Open to interesting problems in AI engineering &amp; full-stack product work.</i></p>
