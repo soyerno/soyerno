@@ -54,6 +54,7 @@ Capabilities I build with LLMs (framed as reusable skills — no proprietary det
 - 🧰 **[nestjs-api-tools](https://github.com/soyerno/nestjs-api-tools)** — NestJS toolkit with a **TOON interceptor** that cuts LLM token usage **30–60%** vs JSON
 - 💳 **[stripe-plans-importer-nodejs](https://github.com/soyerno/stripe-plans-importer-nodejs)** — Programmatically import Stripe plans in Node.js
 - 🧪 **[monopoly-tdd](https://github.com/soyerno/monopoly-tdd)** — Test-driven domain modeling in TypeScript (Jest)
+- 🎯 **[valorolette](https://github.com/soyerno/valorolette)** — Valorant agent/map roulette · React + Sass *(fan project, just for fun)*
 
 ### 📊 GitHub
 
