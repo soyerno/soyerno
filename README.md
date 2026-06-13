@@ -17,11 +17,10 @@
 
 ---
 
-I build products end-to-end — from React/Next.js front-ends to Node/Python back-ends — and I'm now focused on **applied AI**: LLM agents, the Model Context Protocol (MCP), and RAG, shipped to real users.
+I build products end-to-end — from React/Next.js front-ends to Node/Python back-ends — and I'm now bringing **AI into production**.
 
-- 🏦 **Sr AI Engineer at [MODO](https://www.modo.com.ar)**, an Argentine fintech, building AI-powered features and product engineering.
+- 🏦 **At [MODO](https://www.modo.com.ar)** (Argentine fintech) — building AI-powered features with real tests and guardrails.
 - 🐾 Building **[Firulapp](https://firulapp.com.ar)** — a community app for pet owners in Buenos Aires: social feed + AI-powered Lost &amp; Found. Next.js 16, React 19, Firebase, hexagonal architecture.
-- 🧠 Hands-on with **LLMs, agents, MCP servers and prompt engineering** — wiring models into production with real tests and guardrails.
 - 📚 14+ years shipping software. TDD, clean architecture, and pragmatism over perfection.
 
 ### 🛠️ Tech
@@ -54,8 +53,7 @@ Capabilities I build with LLMs (framed as reusable skills — no proprietary det
 - 🐾 **[Firulapp](https://firulapp.com.ar)** — Pet community + AI Lost &amp; Found · Next.js · Firebase · LLM agents
 - 🧰 **[nestjs-api-tools](https://github.com/soyerno/nestjs-api-tools)** — Interceptors &amp; helpers toolkit for NestJS APIs
 - 💳 **[stripe-plans-importer-nodejs](https://github.com/soyerno/stripe-plans-importer-nodejs)** — Programmatically import Stripe plans in Node.js
-- 🐶 **[mascoteros](https://github.com/soyerno/mascoteros)** — Earlier pet-community project (JavaScript)
-- 🧪 **[monopoly-tdd](https://github.com/soyerno/monopoly-tdd)** — Test-driven Monopoly kata in TypeScript
+- 🧪 **[monopoly-tdd](https://github.com/soyerno/monopoly-tdd)** — Test-driven domain modeling in TypeScript (Jest)
 
 ### 📊 GitHub
 
