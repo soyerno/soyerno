@@ -2,10 +2,6 @@
   <img src=".github/banner.svg" alt="soyerno" width="100%">
 </p>
 
-<a href="https://soyerno.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008859,100:00b894&height=180&section=header&text=Hern%C3%A1n%20De%20Souza&fontColor=ffffff&fontSize=42&desc=Sr%20Software%20Engineer%20%40%20MODO%20%C2%B7%20Full-stack%20%2B%20AI&descSize=18&descAlignY=62" alt="Hernán De Souza" />
-</a>
-
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=008859&center=true&vCenter=true&width=560&lines=Full-stack+Engineer+(TypeScript+%C2%B7+React+%C2%B7+Node);AI+Engineer+%E2%80%94+LLMs+%C2%B7+Agents+%C2%B7+MCP+%C2%B7+RAG;Building+Firulapp+%F0%9F%90%BE;14%2B+years+shipping+product+end-to-end" alt="roles" />
