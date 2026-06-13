@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/banner.svg" alt="soyerno" width="100%">
+</p>
+
 <a href="https://soyerno.dev">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008859,100:00b894&height=180&section=header&text=Hern%C3%A1n%20De%20Souza&fontColor=ffffff&fontSize=42&desc=Sr%20Software%20Engineer%20%40%20MODO%20%C2%B7%20Full-stack%20%2B%20AI&descSize=18&descAlignY=62" alt="Hernán De Souza" />
 </a>
